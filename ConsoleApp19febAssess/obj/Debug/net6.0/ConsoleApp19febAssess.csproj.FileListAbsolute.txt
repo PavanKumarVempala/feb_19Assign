@@ -1,0 +1,14 @@
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\obj\Debug\net6.0\ConsoleApp19febAssess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\obj\Debug\net6.0\ConsoleApp19febAssess.AssemblyInfoInputs.cache
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\obj\Debug\net6.0\ConsoleApp19febAssess.AssemblyInfo.cs
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\obj\Debug\net6.0\ConsoleApp19febAssess.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\bin\Debug\net6.0\ConsoleApp19febAssess.exe
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\bin\Debug\net6.0\ConsoleApp19febAssess.deps.json
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\bin\Debug\net6.0\ConsoleApp19febAssess.runtimeconfig.json
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\bin\Debug\net6.0\ConsoleApp19febAssess.dll
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\bin\Debug\net6.0\ConsoleApp19febAssess.pdb
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\obj\Debug\net6.0\ConsoleApp19febAssess.dll
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\obj\Debug\net6.0\refint\ConsoleApp19febAssess.dll
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\obj\Debug\net6.0\ConsoleApp19febAssess.pdb
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\obj\Debug\net6.0\ConsoleApp19febAssess.genruntimeconfig.cache
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\obj\Debug\net6.0\ref\ConsoleApp19febAssess.dll

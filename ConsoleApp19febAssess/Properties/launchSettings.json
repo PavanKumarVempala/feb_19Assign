@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp19febAssess": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

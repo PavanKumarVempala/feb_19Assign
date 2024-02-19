@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0aD5Gf4sH6ORDvKUtrV+p4HFx+XENiDKv62s2n4EB13NjQAezS9ha2gPYW68Le1cGQ8WoreXWNS0+K2QFqV9CA==",
+  "success": true,
+  "projectFilePath": "D:\\Simplilearn\\Phase_4\\dailyAssessments\\ConsoleApp19febAssess\\ConsoleApp19febAssess\\ConsoleApp19febAssess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

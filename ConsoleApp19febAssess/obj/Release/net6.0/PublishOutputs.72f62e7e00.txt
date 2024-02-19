@@ -1,0 +1,5 @@
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\bin\Release\net6.0\publish\ConsoleApp19febAssess.exe
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\bin\Release\net6.0\publish\ConsoleApp19febAssess.dll
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\bin\Release\net6.0\publish\ConsoleApp19febAssess.deps.json
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\bin\Release\net6.0\publish\ConsoleApp19febAssess.runtimeconfig.json
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleApp19febAssess\ConsoleApp19febAssess\bin\Release\net6.0\publish\ConsoleApp19febAssess.pdb
